@@ -2,11 +2,8 @@
 
 // Internal Imports
 
-// Types
-type SignupPageProps = {};
-
 // Component
-const SignupPage = ({}: SignupPageProps) => {
+const SignupPage = () => {
   return <div>SignupPage</div>;
 };
 

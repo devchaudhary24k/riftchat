@@ -2,11 +2,8 @@
 
 // Internal Imports
 
-// Types
-type LoginPageProps = {};
-
 // Component
-const LoginPage = ({}: LoginPageProps) => {
+const LoginPage = () => {
   return <div>LoginPage</div>;
 };
 
