@@ -93,4 +93,4 @@ bun dev
 
 ## License
 
-Licensed under the [MIT license](https://github.com/devchaudhary24k/riftchat/blob/main/LISENCE.md).
+Licensed under the [MIT license](https://github.com/devchaudhary24k/riftchat/blob/main/LICENCE.md).
